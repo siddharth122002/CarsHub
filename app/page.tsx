@@ -1,5 +1,4 @@
 import CarCard from "@/components/CarCard";
-import CustomFilters from "@/components/CustomFilters";
 import Hero from "@/components/Hero";
 import SearchBar from "@/components/SearchBar";
 import { CarProps } from "@/types";
